@@ -36,3 +36,7 @@ Designed my first Arduino car, controlled using a mobile app via Bluetooth.
 
  ![arduino_schema](https://user-images.githubusercontent.com/120085350/209875966-d1287c04-fb8a-4af8-8d61-5cca1ac7fbd1.jpg)
 
+
+<h1>Assembly of hardware components</h1>
+  
+<img src="skeleton_of_car_01.jpg">

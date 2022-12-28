@@ -10,15 +10,21 @@ Designed my first Arduino car, controlled using a mobile app via Bluetooth.
     <li>
   An Arduino Mega 2560 development board (chosen due to the large number of analog and digital pins)
     </li>
+    <li>
   an H Bridge circuit (used to direct current to the car's motors, which control the rotation of the wheels) 
+    </li>
   <li>
   2 batteries with voltage of 3.7V 
     </li>
+    <li>
   one battery of 9.6V
+    </li>
   <li>
   4 LED bulbs
     </li>
+    <li>
   an ultrasonic sensor 
+    </li>
   <li>
   a Bluetooth module
     </li>
@@ -28,4 +34,5 @@ Designed my first Arduino car, controlled using a mobile app via Bluetooth.
  <h2>Circuit Diagram</h2>
 
 
- 
+ ![arduino_schema](https://user-images.githubusercontent.com/120085350/209875966-d1287c04-fb8a-4af8-8d61-5cca1ac7fbd1.jpg)
+

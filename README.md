@@ -39,4 +39,5 @@ Designed my first Arduino car, controlled using a mobile app via Bluetooth.
 
 <h1>Assembly of hardware components</h1>
   
-<img src="skeleton_of_car_01.jpg">
+<img src="skeleton_of_car_01.jpg" width="30%" height="30%">
+<img src="skeleton_of_car_02.jpg" width="30%" height="30%">

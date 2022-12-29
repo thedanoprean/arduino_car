@@ -13,6 +13,9 @@ Designed my first Arduino car, controlled using a mobile app via Bluetooth.
     <li>
   an H Bridge circuit (used to direct current to the car's motors, which control the rotation of the wheels) 
     </li>
+    <li>
+  a photoresistor sensor (used to turn on car lights if it's dark outside)
+    </li>
   <li>
   2 batteries with voltage of 3.7V 
     </li>
